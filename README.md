@@ -1,6 +1,6 @@
 Crie seu blog em 3 dias
 Workshop
-Em breve: 10, 11 e 12 de Agosto de 2021, 19h
+Em: 10, 11 e 12 de Agosto de 2021, 19h
 Além de ser uma fonte de divulgação de postagens pessoas ou técnicas, um blog também serve como vitrine para demonstrar as habilidades de um profissional web. Nesse workshop intensivo de 3 dias, monte junto ao Daniel Castro uma página de postagem de blog prática, concisa, e adaptativa à diversos tamanhos de tela. 
 
 AULAS GRATUITAS AO VIVO
